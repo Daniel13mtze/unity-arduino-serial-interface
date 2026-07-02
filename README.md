@@ -1,6 +1,6 @@
 # Human-Computer Interface (HCI): Unity & Arduino Integration
 
-Este proyecto fue desarrollado originalmente como parte de mi proyecto de residencias profesionales en el Hospital General del Estado de Sonora[cite: 1]. Consiste en una interfaz interactiva en tiempo real donde el movimiento de un entorno virtual 3D es controlado mediante hardware externo (acelerómetro y giroscopio) conectado a un microcontrolador.
+Este proyecto fue desarrollado originalmente como parte de mi proyecto de residencias profesionales en el Hospital General del Estado de Sonora. Consiste en una interfaz interactiva en tiempo real donde el movimiento de un entorno virtual 3D es controlado mediante hardware externo (acelerómetro y giroscopio) conectado a un microcontrolador.
 
 ## 🛠️ Arquitectura Técnica
 
