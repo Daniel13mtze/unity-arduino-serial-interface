@@ -18,6 +18,16 @@ Para efectos de demostración y pruebas en este portafolio digital, el código f
 
 ---
 
+### 📺 Demostración en Video
+Haz clic en la imagen de abajo para ver la simulación del sistema funcionando en tiempo real a través de las flechas del teclado:
+
+[![Ver Demostración en YouTube](https://img.youtube.com/vi/zIwReW24-l8/0.jpg)](https://youtu.be/zIwReW24-l8)
+
+*(Haz clic en la miniatura para abrir el video en YouTube)*
+
+---
+---
+
 ## 📂 Estructura del Repositorio
 - `/Arduino_Firmware`: Contiene el código en C++ desarrollado para el microcontrolador.
 - `/Unity_Scripts`: Contiene la arquitectura completa de scripts en C# que gestionan la interfaz gráfica, lógica de escenas, obstáculos y el flujo general del sistema.
